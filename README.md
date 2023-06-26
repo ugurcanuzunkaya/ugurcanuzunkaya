@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D objects<br>🌱 I’m currently learning Cloud Services (AWS), and Quantum Computing (Google's Cirq)<br>💬 Ask me about Artificial Intelligence, Data Analysis, Core Python, and some basic Quantum Computing problems<br>⚡ Fun fact: I am a hardcore meme maker pepeTux
+🔭 I’m currently working on 3D and 2D modelling with Python<br>🌱 I’m currently learning DevOps, Cloud Services<br>💬 Ask me about Python and Self-Development<br>⚡ Fun fact: I am a hardcore meme maker pepeTux
 
 
 ## 🌐 Socials:
