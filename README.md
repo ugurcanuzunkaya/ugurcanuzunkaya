@@ -33,4 +33,4 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/664715b70a28ee5f070aeaef?variant=dark&roadmaps=backend%2Cdevops%2Cpython%2Cgolang)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/664715b70a28ee5f070aeaef?variant=dark&roadmaps=python%2Cgolang%2Cdevops%2Cbackend)](https://roadmap.sh)
