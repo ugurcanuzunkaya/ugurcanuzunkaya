@@ -29,6 +29,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ugurcanuzunkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/tall/664715b70a28ee5f070aeaef?variant=dark&roadmaps=backend%2Cdevops%2Cgolang%2Cpython)](https://roadmap.sh)
