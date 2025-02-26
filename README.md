@@ -29,3 +29,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ugurcanuzunkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurcanuzunkaya&label=Profile%20views&color=0e75b6&style=flat" alt="ugurcanuzunkaya" /> </p>
