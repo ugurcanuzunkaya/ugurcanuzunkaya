@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D and 2D modelling with Python. Creating a specialized CAD/CAM program.<br>🌱 I’m currently learning DevOps, Cloud Services<br>💬 Ask me about Python and Self-Development<br>⚡ Fun fact: I am a hardcore meme maker pepeTux
+🔭 I’m currently working on 3D and 2D modelling with Python. Creating a specialized CAD/CAM program.<br>🌱 I’m currently learning DevOps, Cloud Services<br>💬 Ask me about Python and Self-Development<br>⚡ Fun fact: I am a hardcore meme maker <br>
+![pepeTux](https://cdn.frankerfacez.com/emoticon/245701/4)
 - Challenge for Me
   - 2020: 0 contribution
   - 2021: 13 contributions
