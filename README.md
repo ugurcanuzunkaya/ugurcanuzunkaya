@@ -22,19 +22,19 @@ I'm a passionate engineer and researcher, currently balancing my Ph.D. studies w
 💻 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40"/></a> &nbsp; &nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/1280px-Docker_logo.svg.png" alt="Docker" width="150"/></a>&nbsp; &nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="50"/></a>&nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40"/></a> &nbsp; &nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="GitHub" width="45"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="125"/></a> &nbsp; &nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="50"/></a> &nbsp; &nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="75"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" width="50"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="150"/></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="75"/></a>&nbsp; &nbsp;
-<a href="https://www.figma.com/" target="_blank"><img src="https://static.figma.com/app/icon/1/icon-192.png" alt="Figma" width="75"/></a> &nbsp; &nbsp;
-<a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/static/images/android-192x192.png" alt="Canva" width="75"/></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="300"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="75"/></a> &nbsp; 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" width="50"/></a> &nbsp;
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/449px-Tensorflow_logo.svg.png" alt="TensorFlow" width="50"/></a> &nbsp;
+<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="60"/></a>&nbsp; &nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40"/></a> &nbsp; &nbsp;
+<a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/static/images/android-192x192.png" alt="Canva" width="60"/></a> &nbsp; 
+<a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="70"/></a>
 
 📊 My GitHub Stats:
 
