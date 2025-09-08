@@ -1,34 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on 3D and 2D modelling with Python. Creating a specialized CAD/CAM program.<br>🌱 I’m currently learning DevOps, Cloud Services<br>💬 Ask me about Python and Self-Development<br>⚡ Fun fact: I am a hardcore meme maker <br>
+# Hi there 👋, I'm Uğurcan
+
 ![pepeTux](https://cdn.frankerfacez.com/emoticon/245701/4)
-- Challenge for Me
-  - 2020: 0 contribution
-  - 2021: 13 contributions
-  - 2022: 190 contributions
-  - 2023: 594 contributions
-  - 2024: 866 contributions
-  - 2025: At least 1000 contributions 🚀
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugurcanuzunkayaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugurcanuzunkaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ugurcanuznkaya) 
+## A Senior Software Engineer and the Co-Founder of Turkish AI Community 🇹🇷
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+I'm a passionate engineer and researcher, currently balancing my Ph.D. studies with building new pathways for AI Agents and growing the Turkish AI Community. I thrive on solving complex problems, whether it's through code, mathematical optimization, or community building.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ugurcanuzunkaya&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ugurcanuzunkaya&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcanuzunkaya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+🔭 I’m currently working on: Acing my Doctorate lessons, finding a new way for AI Agents, and creating the Turkish AI Community.
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ugurcanuzunkaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🌱 I’m currently learning: AI Agents, Serverless AI, and Better Deployment.
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+👯 I’m looking to collaborate on: AI Agents and Backend Systems, both open-source and private. (Don't hesitate to reach out to me.)
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ugurcanuzunkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💬 Ask me about: Python, optimisation, AI, AI Agents, and startup ideas.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📬 Connect with me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurcanuzunkaya&label=Profile%20views&color=0e75b6&style=flat" alt="ugurcanuzunkaya" /> </p>
+<a href="https://linkedin.com/in/ugurcanuzunkaya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/></a> &nbsp; &nbsp; &nbsp; <a href="https://x.com/ugurcanuznkaya" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/250px-X_logo.jpg" alt="X" width="30"/></a> &nbsp; &nbsp; &nbsp;  <a href="https://instagram.com/ugurcanuzunkayaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30"/></a> &nbsp; &nbsp; &nbsp;  
+<a href="https://linktr.ee/ugurcanuzunkaya" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem.png" alt="Linktree" width="100"/></a>
+
+💻 Languages and Tools:
+
+<a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40"/></a> &nbsp; &nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/1280px-Docker_logo.svg.png" alt="Docker" width="150"/></a>&nbsp; &nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40"/></a> &nbsp; &nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="125"/></a> &nbsp; &nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="50"/></a> &nbsp; &nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="75"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" width="50"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="150"/></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="75"/></a>&nbsp; &nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://static.figma.com/app/icon/1/icon-192.png" alt="Figma" width="75"/></a> &nbsp; &nbsp;
+<a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/static/images/android-192x192.png" alt="Canva" width="75"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/2560px-LangChain_Logo.svg.png" alt="LangChain" width="300"/></a>
+
+📊 My GitHub Stats:
+
+![Ugurcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcanuzunkaya&show_icons=true&locale=en&theme=tokyonight)
+![Ugurcan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ugurcanuzunkaya&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+🚀 My Featured Projects:
+
+<!--
+To add a project, copy and paste the following block and fill in the details.
+You can find good project icons at https://www.flaticon.com/ or https://simpleicons.org/
+
+<table style="width:100%; border: none;">
+<tr>
+<td style="width: 100px; text-align: center;">
+<img src="YOUR_PROJECT_ICON_URL" width="80" alt="Project Icon">
+</td>
+<td>
+<h3><a href="YOUR_PROJECT_REPO_LINK">Project Title</a></h3>
+<p>A short and engaging description of your project. Explain what it does and what technologies you used. Keep it to 1-2 sentences for clarity.</p>
+</td>
+</tr>
+</table>
+
+-->
+
+<!-- PROJECT 1: To be added -->
+
+*My top projects are currently being polished and will be featured here soon!*
+
+<!-- PROJECT 2: To be added -->
+
+<!-- PROJECT 3: To be added -->
