@@ -34,7 +34,7 @@ I'm a passionate engineer and researcher, currently balancing my Ph.D. studies w
 <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="75"/></a>&nbsp; &nbsp;
 <a href="https://www.figma.com/" target="_blank"><img src="https://static.figma.com/app/icon/1/icon-192.png" alt="Figma" width="75"/></a> &nbsp; &nbsp;
 <a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/static/images/android-192x192.png" alt="Canva" width="75"/></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/2560px-LangChain_Logo.svg.png" alt="LangChain" width="300"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="300"/></a>
 
 📊 My GitHub Stats:
 
