@@ -2,7 +2,7 @@
 
 ![pepeTux](https://cdn.frankerfacez.com/emoticon/245701/4)
 
-## A Senior Software Engineer and the Co-Founder of Turkish AI Community 🇹🇷
+## A Senior Software Engineer 🇹🇷
 
 I'm a passionate engineer and researcher, currently balancing my Ph.D. studies with building new pathways for AI Agents and growing the Turkish AI Community. I thrive on solving complex problems, whether it's through code, mathematical optimization, or community building.
 
