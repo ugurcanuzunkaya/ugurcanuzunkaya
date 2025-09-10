@@ -4,7 +4,7 @@
 
 ## A Senior Software Engineer 🇹🇷
 
-I'm a passionate engineer and researcher, currently balancing my Ph.D. studies with building new pathways for AI Agents and growing the Turkish AI Community. I thrive on solving complex problems, whether it's through code, mathematical optimization, or community building.
+I'm a passionate engineer and researcher, currently balancing my Ph.D. studies with building new pathways for AI Agents. I thrive on solving complex problems, whether it's through code, mathematical optimization, or community building.
 
 🔭 I’m currently working on: Acing my Doctorate lessons, finding a new way for AI Agents, and creating the Turkish AI Community.
 
