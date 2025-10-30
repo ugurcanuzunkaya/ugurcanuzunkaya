@@ -2,7 +2,7 @@
 
 ![pepeTux](https://cdn.frankerfacez.com/emoticon/245701/4)
 
-## A Software Engineer and Head of Technology at TYZ - Turkish AI Community 🇹🇷
+## A Software Engineer and Head of Technology at Turkish AI Community 🇹🇷
 
 I'm a passionate engineer and researcher, currently balancing my Ph.D. studies with building new pathways for AI Agents. I thrive on solving complex problems, whether it's through code, mathematical optimization, or community building.
 
